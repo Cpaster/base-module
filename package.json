@@ -1,0 +1,20 @@
+{
+  "name": "util-base-module",
+  "version": "0.1.0",
+  "description": "The coolest cortex module.",
+  "main": "index.js",
+  "repository": "git://code.dianpingoa.com/tp-tuangou-fun/util-base-module.git",
+  "keywords": [
+    "base",
+    "module"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "mengdong.wang",
+    "email": "mengdong.wang@dianping.com"
+  },
+  "bugs": {
+    "url": "http://code.dianpingoa.com/tp-tuangou-fun/util-base-module/issues"
+  },
+  "homepage": "http://code.dianpingoa.com/tp-tuangou-fun/util-base-module"
+}
